@@ -1,0 +1,41 @@
+@import 'semantic';
+
+/* My Styles */
+img{
+width: auto;
+height: auto;
+}
+
+h1{
+font-size: 2em;
+text-align: center;
+text-transform: uppercase;
+}
+
+h2{
+color: grey;
+}
+
+p{
+padding: 0 1em 0 1em;
+color:lightgray;    
+    
+}
+
+h2{
+text-transform: uppercase;
+    font-size: 20px;
+    text-align: center;
+}
+
+.portfolio{
+width: 30%;
+height: 30%;
+align-content: center;
+border-radius: 100%;
+}
+
+section{
+
+margin: 2em;
+}
